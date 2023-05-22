@@ -1,0 +1,34 @@
+h1 {
+    font-size: 3em;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    color: blue;
+}
+
+.fondrose {
+    background-color: pink;
+}
+
+p {
+    background-color: gray;
+}
+
+.art2 {
+    color: green;
+    text-decoration-line: underline;
+    text-align: right;
+}
+
+.gras {
+    font-weight: normal;
+    color: yellowgreen;
+}
+ .italique {
+    font-style: normal;
+    text-decoration-line: underline;
+    color: orange;
+ }
